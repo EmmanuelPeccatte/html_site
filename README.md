@@ -3,6 +3,6 @@ layout: default
 
 <section>
   <div class="page-content">
-    {{ content }}
+    {{ About }}
   </div>
 </section>
