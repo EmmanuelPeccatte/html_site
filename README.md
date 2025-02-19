@@ -1,0 +1,8 @@
+layout: default
+---
+
+<section>
+  <div class="page-content">
+    {{ content }}
+  </div>
+</section>
